@@ -1,0 +1,23 @@
+.main {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    margin-top: 15%;
+}
+.ImgDiv {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
+
+.mainIMG {
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.BtnDiv {
+    margin-top: 2%;
+    text-align: center;
+}
