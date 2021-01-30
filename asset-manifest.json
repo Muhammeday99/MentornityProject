@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MentornityProject/static/css/main.203c1437.chunk.css",
+    "main.js": "/MentornityProject/static/js/main.361cadfd.chunk.js",
+    "main.js.map": "/MentornityProject/static/js/main.361cadfd.chunk.js.map",
+    "runtime-main.js": "/MentornityProject/static/js/runtime-main.38e78c86.js",
+    "runtime-main.js.map": "/MentornityProject/static/js/runtime-main.38e78c86.js.map",
+    "static/css/2.150d169a.chunk.css": "/MentornityProject/static/css/2.150d169a.chunk.css",
+    "static/js/2.2931c349.chunk.js": "/MentornityProject/static/js/2.2931c349.chunk.js",
+    "static/js/2.2931c349.chunk.js.map": "/MentornityProject/static/js/2.2931c349.chunk.js.map",
+    "index.html": "/MentornityProject/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/MentornityProject/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.203c1437.chunk.css.map": "/MentornityProject/static/css/main.203c1437.chunk.css.map",
+    "static/js/2.2931c349.chunk.js.LICENSE.txt": "/MentornityProject/static/js/2.2931c349.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/MentornityProject/static/media/4882066.ebf63d72.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38e78c86.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.2931c349.chunk.js",
+    "static/css/main.203c1437.chunk.css",
+    "static/js/main.361cadfd.chunk.js"
+  ]
+}
