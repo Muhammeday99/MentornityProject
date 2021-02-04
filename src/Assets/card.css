@@ -1,0 +1,4 @@
+.Cbody {
+    text-overflow: ellipsis;
+    overflow-y: scroll;
+}
