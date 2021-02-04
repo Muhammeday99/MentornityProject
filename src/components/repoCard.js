@@ -6,6 +6,7 @@ const RepoCard = (props) => {
     return (
         <Card style={{ margin: 15, width: "20%", height: "30vh" }}>
             <Card.Body>
+                <Card.Img src="https://picsum.photos/200/300" />
                 <Card.Title>{props.name}</Card.Title>
                 <Card.Text>{props.description}</Card.Text>
             </Card.Body>
